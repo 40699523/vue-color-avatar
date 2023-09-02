@@ -2,7 +2,7 @@
   <header class="header">
     <Logo />
 
-    <h2 class="site-title" herf:"/" >Color Avatar</h2>
+    <h2 class="site-title">Color Avatar</h2>
 
   </header>
 </template>
