@@ -6,11 +6,11 @@
       Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="https://opw.cc"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        O泡
       </a>
     </div>
 
