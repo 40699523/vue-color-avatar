@@ -4,7 +4,8 @@
 
     <h2 class="site-title">Color Avatar</h2>
 
-    
+  </header>
+</template>
 
 <script lang="ts" setup>
 import IconGitHub from '@/assets/icons/icon-github.svg'
