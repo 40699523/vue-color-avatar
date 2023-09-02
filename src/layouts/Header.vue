@@ -5,24 +5,7 @@
     <h2 class="site-title">Color Avatar</h2>
 
     <div class="header-right">
-      <a
-        href="/"
-        target="_blank"
-        rel="nofollow noopener noreferrer"
-      >
-        <button
-          type="button"
-          class="github-button"
-          @click="
-            recordEvent('click_github', {
-              event_category: 'click',
-            })
-          "
-        >
-          <img :src="IconGitHub" alt="GitHub" />
-          <span class="text"> </span>
-        </button>
-      </a>
+      
     </div>
   </header>
 </template>
